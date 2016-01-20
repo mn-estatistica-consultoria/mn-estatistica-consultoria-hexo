@@ -14,3 +14,5 @@ featured: true
 <div class="image-strip">
 {% img https://s3.amazonaws.com/ptsteadman-images/hexo.png  %}
 </div>
+
+{% pdf https://drive.google.com/file/d/0B6qSwdwPxPRdTEliX0dhQ2JfUEU/preview %}
