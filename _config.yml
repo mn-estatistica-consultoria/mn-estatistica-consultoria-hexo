@@ -72,12 +72,13 @@ deploy:
   repo: https://github.com/mn-estatistica-consultoria/mn-estatistica-consultoria.github.io
   branch: master
 
-# Admin UI
-## Docs: https://github.com/jaredly/hexo-admin/tree/v1.1.2
+# Admin
+## Docs: https://github.com/nihgwu/hexo-hey
 admin:
-  username: administrator
-  password_hash: 7f2ebab322ffdd9af93ebc6c3a4aa3af
-  secret: 3d3f870ff1a89e87c59440f83ff88695ad7eb46a-mn-estatistica
+    name: administrator
+    password: hey
+    secret: hey hexo
+    expire: 60*1
 
 # Generate Atom 1.0 or RSS 2.0 feed.
 ## Docs: https://github.com/hexojs/hexo-generator-feed

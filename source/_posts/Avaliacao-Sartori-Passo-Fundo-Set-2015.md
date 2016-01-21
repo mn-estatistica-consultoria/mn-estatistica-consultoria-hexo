@@ -1,18 +1,22 @@
 ---
 layout: post
-title: Avaliação Sartori Passo Fundo Set-2015
-date: 2015-10-01
+title: Avaliação da administração do governador José Ivo Sartori em Passo Fundo Set-2015
 tags:
-- política
-- RS
-category: Pesquisa
-thumbnail: https://s3.amazonaws.com/ptsteadman-images/hexo.png
-lede: "A avaliação do governador do estado do Rio Grande do Sul após 9 meses da posse é complicado"
+  - RS
+  - política
+categories:
+  - Pesquisa
+date: 2015-10-01
+thumbnail: '/sartori3.jpg'
+lede: 'O governador está em um momento extremamente difícil e com a popularidade ladeira a baixo'
 featured: true
 ---
 
 <div class="image-strip">
-{% img https://s3.amazonaws.com/ptsteadman-images/hexo.png  %}
+{% img /sartori3.jpg  %}
 </div>
 
-{% pdf https://drive.google.com/file/d/0B6qSwdwPxPRdTEliX0dhQ2JfUEU/preview %}
+
+Após 9 meses de mandato como governador, José Ivo Sartori passa por um momento complicado de sua imagem público.
+
+O reflexo disso são os resultados das pesquisas com altos índices de reprovação das escolhas administrativas na tentativa de colocar o caixa e as contas do estado em dia.

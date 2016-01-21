@@ -6,7 +6,7 @@ tags:
   - sistema eleitoral
   - opnião
 category: Como funciona?
-thumbnail: 'https://s3.amazonaws.com/ptsteadman-images/hexo.png'
+thumbnail: '/pesquisa-eleitoral.jpg'
 lede: 'A maioria da população quando questionada sobre a forma de votar, a resposta é : Eu não voto no partido eu voto na pessoa'
 date: 2016-01-19 00:00:00
 ---
