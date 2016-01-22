@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Voce sabe como funcional o Quociente eleitoral?
+title: Voce sabe como funciona o Quociente eleitoral?
 tags:
   - eleições 2016
   - sistema eleitoral
@@ -14,7 +14,7 @@ date: 2016-01-19
 
 # O Número mágico #
 
-Voce sabe o que é e como funcional o quociente partidário? Se sim, então sabe também o quanto este valor pode ser responsável direto por qualquer candidato vencer o pleito ou não dependendo apenas de algum contexto específico e favorável.
+Voce sabe o que é e como funciona o quociente partidário? Se sim, então sabe também o quanto este valor pode ser responsável direto por qualquer candidato vencer o pleito ou não dependendo apenas de algum contexto específico e favorável.
 
 
 Em resumo existem 3 cálculos básicos e determinantes para a distribuição das vagas em todas as câmaras municipais de vereadores. Vejamos:
