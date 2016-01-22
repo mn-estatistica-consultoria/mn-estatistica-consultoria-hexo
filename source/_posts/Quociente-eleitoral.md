@@ -10,7 +10,6 @@ category: Como funciona?
 thumbnail: '/pesquisa-eleitoral.jpg'
 lede: 'A maioria da população quando questionada sobre a forma de votar, a resposta é : Eu não voto no partido eu voto na pessoa'
 date: 2016-01-19
-featured: true
 ---
 
 # O Número mágico #
@@ -24,6 +23,7 @@ Em resumo existem 3 cálculos básicos e determinantes para a distribuição das
 - Quociente Partidário (Art. 107 do Código Eleitoral Brasileiro)
 - Distribuição das Sobras (Art. 109 do Código Eleitoral Brasileiro)
 
+
 ## Determinar o número de votos válidos ##
 
 | Descrição | Votos |
@@ -34,6 +34,10 @@ Em resumo existem 3 cálculos básicos e determinantes para a distribuição das
 | (D) - Nulos (3%) | 7789 |
 | (E) - Total Votos Validos [A-(B+C+D)] | 61449 |
 | * Valores hipotéticos |  |
+
+## Determinar o QE ##
+
+
 
 {% googlecharts ChartType [width [height]] %}
   Title for the Graph
