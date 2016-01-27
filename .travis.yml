@@ -13,6 +13,7 @@ before_script:
     - git config --global user.email 'marcionicolau@me.com'
 
 script:
+    - hexo cleanup	
     - hexo generate
 
 after_success:
