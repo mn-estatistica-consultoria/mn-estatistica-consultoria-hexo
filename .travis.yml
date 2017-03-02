@@ -29,5 +29,5 @@ after_success:
   - cp -r ../public/* .
   - git add -A .
   - git commit -m "Site updated: $(date)"
-  - git granch -m master
+  - git branch -m master
   - git push -q -u origin master
