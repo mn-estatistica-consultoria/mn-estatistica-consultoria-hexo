@@ -29,6 +29,6 @@ after_success:
   - rm -rf ./*
   - cp -r ../public/* .
   - git add -A .
-  - git commit -m 'Site updated ${date}'
+  - git commit -m "Site updated ${`date +%d-%m-%y`}"
   - git branch -m master
   - git push -q -u origin master
